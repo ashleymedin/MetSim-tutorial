@@ -15,6 +15,7 @@ dependencies:
   - dask-jobqueue
   - geopandas
   - holoviews
+  - bokeh==1.4.0
   - cartopy
   - metsim
   - jupyter
